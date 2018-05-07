@@ -1,7 +1,8 @@
 
 Demonstrates a server broadcasting its screen, enabling clients to connect via a web browser. Clients do not need to install anything.
 
-Based on [EasyRTC](http://easyrtc.com) and [Muaz-Khan's Chrome extensions](https://github.com/muaz-khan/Chrome-Extensions)
+Based on [EasyRTC](http://easyrtc.com) and [Muaz-Khan's Chrome extensions](https://github.com/muaz-khan/Chrome-Extensions).
+See also [WebRTC Desktop Sharing](https://chrome.google.com/webstore/detail/webrtc-desktop-sharing/nkemblooioekjnpfekmjhpgkackcajhg).
 
 # Instructions
 
